@@ -17,8 +17,8 @@ To set up Chess Grandmaster AI on your local machine, follow these steps:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/mhssonic/AI_P2_40131019.git
-cd AI_P2_40131019/Chess-Grandmaster-AI
+git clone https://github.com/mhssonic/csp-adversarial-search.git
+cd csp-adversarial-search/Chess-Grandmaster-AI
 ```
 
 2. **Create a virtual environment (optional but recommended)**
